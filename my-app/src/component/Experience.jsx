@@ -8,7 +8,7 @@ const Experience = () => {
       <h2 className='mb-4 p-2 pb-1 text-5xl font-bold text-white'>Experience the app today!</h2>
         <div className='pt-2'>
           <Store />
-    <div className='mt-9'>
+    <div className='mt-9 pl-8'>
      <img src='/download-app-phone.png' />
      </div>
        </div>
